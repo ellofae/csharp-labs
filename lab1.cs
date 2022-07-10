@@ -6,7 +6,6 @@ namespace Program
     {
         public enum Education { Specialist, Вachelor, SecondEducation };
         public enum Frequency { Weekly, Monthly, Yearly };
-        public enum TimeFrame { Year, TwoYears, Long };
 
         class Exam
         {
